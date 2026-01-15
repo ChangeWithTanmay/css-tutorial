@@ -1,0 +1,32 @@
+/* 
+- Universal Selector */
+
+*{
+    color: blue;
+}
+
+
+
+/* - Element Selector */
+h1 {
+    color: red;
+}
+
+/* Id selector */
+/* #headingOne{
+    color: yellow;
+}
+
+#headingTwo{
+    color: magenta;
+}
+
+#headingThree{
+    color: maroon;
+} */
+
+/* class selector */
+
+.head{
+    color: chartreuse;
+}
