@@ -1,32 +1,16 @@
-/* 
-- Universal Selector */
-
-*{
-    color: blue;
+#box{
+    background-color: blue;
+    /* color: white; */
 }
 
+/* .heading{
+    color: red;
+} */
 
-
-/* - Element Selector */
-h1 {
+h1, h2, h3 {
     color: red;
 }
 
-/* Id selector */
-/* #headingOne{
-    color: yellow;
-}
-
-#headingTwo{
-    color: magenta;
-}
-
-#headingThree{
-    color: maroon;
-} */
-
-/* class selector */
-
-.head{
-    color: chartreuse;
+button{
+    background-color: green;
 }
