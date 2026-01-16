@@ -1,4 +1,4 @@
-#box{
+#box {
     background-color: blue;
     /* color: white; */
 }
@@ -7,10 +7,28 @@
     color: red;
 } */
 
-h1, h2, h3 {
+h1,
+h2,
+h3 {
     color: red;
 }
 
-button{
+button {
     background-color: green;
+}
+
+/*
+  Text Properties
+  text-align: left/right/center
+*/
+
+p {
+    text-align: left;
+    /* start, end, left, right, center */
+
+}
+
+h1 {
+    text-align: left;
+    
 }
