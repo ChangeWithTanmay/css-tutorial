@@ -1,53 +1,14 @@
-#box {
-    background-color: blue;
-    /* color: white; */
+*{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+p{
+  text-align: center;  
 }
 
-/* .heading{
-    color: red;
-} */
 
-/* h1,
-h2,
-h3 {
-    color: red;
-} */
 
-button {
-    background-color: green;
+#two{
+    /* font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; */
+    font-family: cursive;
+    /* Fail back machanisum */
 }
-
-/*
-  Text Properties
-  text-align: left/right/center
-*/
-
-p {
-    text-align: left;
-    /* start, end, left, right, center */
-
-}
-
-/* h1 {
-    text-align: left;
-    text-decoration: line-through;
-} */
-
-a {
-    text-decoration: none;
-}
-
-#h1{
-    font-weight: normal;
-}
-
-#h2{
-    font-weight: bold;
-}
-
-#h3{
-    font-weight: lighter;
-}
-
-/* lighter -> 100 */
-/* Darker -> 900 */
