@@ -1,14 +1,12 @@
-*{
-    font-family: Verdana, Geneva, Tahoma, sans-serif;
+#one{
+    font-size: 25px;
+    line-height: normal;
+    /* text-transform: uppercase; */
+    /* text-transform: lowercase; */
+    /* text-transform: capitalize; */
+    text-transform: none;
 }
-p{
-  text-align: center;  
-}
 
-
-
-#two{
-    /* font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; */
-    font-family: cursive;
-    /* Fail back machanisum */
+#three{
+    font-size: 10px;
 }
