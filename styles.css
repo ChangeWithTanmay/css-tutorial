@@ -7,11 +7,11 @@
     color: red;
 } */
 
-h1,
+/* h1,
 h2,
 h3 {
     color: red;
-}
+} */
 
 button {
     background-color: green;
@@ -28,11 +28,26 @@ p {
 
 }
 
-h1 {
+/* h1 {
     text-align: left;
     text-decoration: line-through;
-}
+} */
 
 a {
     text-decoration: none;
 }
+
+#h1{
+    font-weight: normal;
+}
+
+#h2{
+    font-weight: bold;
+}
+
+#h3{
+    font-weight: lighter;
+}
+
+/* lighter -> 100 */
+/* Darker -> 900 */
